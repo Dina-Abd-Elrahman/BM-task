@@ -15,6 +15,7 @@ function pkg_check
   else
     echo "[-] Can't detect ${package_name} "
     echo "[*] Start installing ${package_name}"
+    sudo apt update
     sudo apt install ${package_name} -y || { echo "[-] Can't install ${package_name}, please check"; exit 1; }
     echo "[+] ${package_name} installed"
   fi

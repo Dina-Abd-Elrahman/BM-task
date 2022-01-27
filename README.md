@@ -1,5 +1,7 @@
 # BM-task
 
+![task](https://user-images.githubusercontent.com/21218053/151374227-bcf2f14a-619b-496b-b682-5538dab1e127.png)
+
 ## Prerequisites
 
 The project needs the following dependencies to function on your system. 
@@ -53,6 +55,8 @@ chmod +x automation.sh && bash automation.sh
 ```
 
 ## Access you environment
+
 After the environment up and running, check it http://"<machine ip>":9001
 
-Username: test, password: test12345"
+Username: test, password: test12345
+

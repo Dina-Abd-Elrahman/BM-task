@@ -53,4 +53,6 @@ chmod +x automation.sh && bash automation.sh
 ```
 
 ## Access you environment
-After the environment up and running, check it http://<machine ip>:9001, Username: test, password: test12345"
+After the environment up and running, check it http://"<machine ip>":9001
+
+Username: test, password: test12345"

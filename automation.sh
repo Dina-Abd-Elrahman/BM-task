@@ -43,6 +43,3 @@ vagrant plugin install vagrant-docker-compose
 
 ## Run vagrant file
 vagrant up
-
-## Access you environment succefully
-echo "Go to your browser, and check this url http://127.0.0.1:9001, Username: test, password: test12345"
